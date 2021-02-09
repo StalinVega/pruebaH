@@ -23,7 +23,7 @@ app = Flask(__name__)
 def index():
     nltk.download('stopwords')
 
-    sw = pd.read_excel("software.xlsx")
+    sw = pd.read_excel("software.xlsx", engine='openpyxl')
     tits = np.array(sw['tema'])
     keyws = np.array(sw['keywords'])
     tems = np.array(sw['contenedor'])
