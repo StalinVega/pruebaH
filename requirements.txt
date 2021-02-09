@@ -1,6 +1,6 @@
 absl-py==0.9.0
 alabaster==0.7.12
-anaconda-client==1.7.2
+anaconda-client==1.2.2
 anaconda-navigator==1.9.12
 anaconda-project==0.8.3
 argh==0.26.2
@@ -217,15 +217,6 @@ sortedcollections==1.1.2
 sortedcontainers==2.1.0
 SoundFile==0.10.2
 soupsieve==2.0
-SpeechRecognition==3.8.1
-Sphinx==3.0.3
-sphinxcontrib-applehelp==1.0.2
-sphinxcontrib-devhelp==1.0.2
-sphinxcontrib-htmlhelp==1.0.3
-sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.3
-sphinxcontrib-serializinghtml==1.1.4
-sphinxcontrib-websupport==1.2.1
 spyder==4.1.2
 spyder-kernels==1.9.0
 SQLAlchemy==1.3.16
