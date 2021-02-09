@@ -1,7 +1,7 @@
 flask ==1.1
 wordcloud == 1.7
 gensim == 3.8
-pydavis == 2.1.2
+pydavis == 0.1.1
 sklearn == 0.0.0
 textblob == 0.15.3
 tweepy == 3.8
